@@ -23,6 +23,7 @@ namespace labaddd1
         }
         public void Push(int value)
         {
+            //123123
             Element n = new Element();
             {
                 n.integer = value;
